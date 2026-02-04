@@ -168,7 +168,7 @@ Ensures clean exit
 
 Clone the repository:
 
-git clone https://github.com/your-username/digital-clock-pyqt5.git
+git clone https://github.com/indrajeetgupta1/DigitalClock
 
 
 Navigate to the project folder:
